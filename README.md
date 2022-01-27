@@ -12,7 +12,7 @@ This repo is implementation for the accepted paper "[Model Watermarking for Imag
 
 
 
-## How to run
+## How to run  
 
 ### Initial Training Stage 
 
